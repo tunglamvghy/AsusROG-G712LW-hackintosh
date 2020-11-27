@@ -13,24 +13,24 @@ Any donation would help me a lot!
 - **MainBoard:** Asus G712LW.
 - **Processor:** Intel Core i7-10750H @ 2.6GHz (CometLake)
 - **Graphic:** 
-  + Intel UHD620 (1536MB of dynamic memory (shared from the system))
+  + Intel UHD630
   + nVIDIA GeForce RTX 2070
 - **Network:**
-  + Wifi: Intel AX201 (working unstable!!)
+  + Wifi: Intel AX201 
   + Ethernet: Realtek RTL8168/8111
-  + Bluetooth: V5.0 (working)
-- **Audio:** Realtek ALC294 (working)
-- **Touchpad:** ELAN1203 (I2C) (working in Polling mode)
+  + Bluetooth: V5.0 
+- **Audio:** Realtek ALC294 
+- **Touchpad:** ELAN1203 (I2C) 
 - **Keyboard**: Chiclet keyboard 
 - **WebCam**: VGA Web Camera
 - **Battery**: Working
 
 # WORKING:
-- [x] **Graphics UHD 620**
+- [x] **Graphics UHD 630**
 - [x] nVIDIA GeForce RTX 2070 **(NOT support now)**
 - [x] **Sound**
-- [x] **WiFi (testing with itlwm and HeliPort)**
-- [x] **Bluetooth** (fully supported)
+- [x] **WiFi (in developement)**
+- [x] **Bluetooth** 
 - [x] Apple Store
 - [x] External USB headphone
 - [x] USB 2.0
@@ -40,8 +40,8 @@ Any donation would help me a lot!
 - [x] Led light keyboard
 - [x] Sleep power
 - [x] Battery
-- [x] Trackpad (Only working in Polling MODE with VoodooI2C)
-- [x] Full 4 cores
+- [x] Trackpad
+- [x] Full cores
 - [x] Temporature
 - [x] System Fan Control
 - [x] Disabling discrete graphics GPU with SSDT Patching
@@ -54,16 +54,3 @@ Any donation would help me a lot!
 
 # SCREENSHOT
 
-## Credits
-@RehabMan for his guide for beginner
-
-@alexandred and his team for VoodooI2C
-
-@acidanthera for his OpenCore Bootloader and kexts
-
-@hieplpvip for his AsusSMC kexts
-
-@OpenIntelWireless for his Intel Wifi support
-
-@black.dragon74 for custom FAN control (see https://osxlatitude.com/forums/topic/10244-how-to-implement-custom-fan-control-on-asus-laptops/
-and many more people that I can't list here.
