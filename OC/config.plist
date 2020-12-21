@@ -1312,6 +1312,8 @@
 	<dict>
 		<key>MmioWhitelist</key>
 		<array/>
+		<key>Patch</key>
+		<array/>
 		<key>Quirks</key>
 		<dict>
 			<key>AllowRelocationBlock</key>
@@ -2083,13 +2085,13 @@
 			<key>PickerMode</key>
 			<string>Builtin</string>
 			<key>PollAppleHotKeys</key>
-			<false/>
+			<true/>
 			<key>ShowPicker</key>
 			<true/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>5</integer>
+			<integer>4</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -2108,7 +2110,7 @@
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
-			<integer>83</integer>
+			<integer>19</integer>
 		</dict>
 		<key>Entries</key>
 		<array/>
@@ -2123,7 +2125,7 @@
 			<key>AuthRestart</key>
 			<false/>
 			<key>BlacklistAppleUpdate</key>
-			<false/>
+			<true/>
 			<key>BootProtect</key>
 			<string>None</string>
 			<key>DmgLoading</key>
@@ -2423,11 +2425,11 @@
 			<key>KeySwap</key>
 			<false/>
 			<key>PointerSupport</key>
-			<false/>
+			<true/>
 			<key>PointerSupportMode</key>
 			<string></string>
 			<key>TimerResolution</key>
-			<integer>5000</integer>
+			<integer>50000</integer>
 		</dict>
 		<key>Output</key>
 		<dict>
