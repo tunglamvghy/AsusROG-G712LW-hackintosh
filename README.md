@@ -7,8 +7,8 @@ Any donation would help me a lot!
 [![Telegram](https://img.shields.io/badge/Chat_on-Telegram-blue.svg)](https://t.me/tunglamvghy)
 
 # Asus ROG Strix G17 G712LW
-# Mac OS X 10.15.7 Catalina 
-***This EFI can be used for previous version of macOS ***
+# Mac OS X 11.1 BigSur 
+***This EFI can be used for 10.15 Catalina***
 ![Alt text](https://github.com/tunglamvghy/AsusS530UN-hackintosh/raw/master/Screenshoot/os.png)
 # Specification
 - **MainBoard:** Asus G712LW.
