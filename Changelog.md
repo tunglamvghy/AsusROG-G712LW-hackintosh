@@ -1,5 +1,8 @@
 # CHANGELOG
 
+**31/01/2021**
+- Update OC and kexts to latest commits
+
 **21/12/2020**
 - Fix "OC: Failed to load configuration"
 

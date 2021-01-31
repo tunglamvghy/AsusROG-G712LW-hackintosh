@@ -5,6 +5,7 @@ Any donation would help me a lot!
 
 ## Contact me
 [![Telegram](https://img.shields.io/badge/Chat_on-Telegram-blue.svg)](https://t.me/tunglamvghy)
+***Due to COVID-19, now I have free time. So if you want me to create your own EFI with a little payment, contact me via Telegram.***
 
 # Asus ROG Strix G17 G712LW
 # Mac OS X 11.1 BigSur 
