@@ -8,35 +8,30 @@ Any donation would help me a lot!
 ***Due to COVID-19, now I have free time. So if you want me to create your own EFI with a little payment, contact me via Telegram.***
 
 # Asus ROG Strix G17 G712LW
-# Mac OS X 11.1 BigSur 
+# Mac OS X 11.2.2 BigSur 
 ***This EFI can be used for 10.15 Catalina***
-![Alt text](https://github.com/tunglamvghy/AsusS530UN-hackintosh/raw/master/Screenshoot/os.png)
+![Alt text](https://github.com/tunglamvghy/AsusROG-G712LW-hackintosh/raw/main/Screenshots/os.png)
 # Specification
-- **MainBoard:** Asus G712LW.
-- **Processor:** Intel Core i7-10750H @ 2.6GHz (CometLake)
-- **Graphic:** 
-  + Intel UHD630
-  + nVIDIA GeForce RTX 2070
-- **Network:**
-  + Wifi: Intel AX201 
-  + Ethernet: Realtek RTL8168/8111
-  + Bluetooth: V5.0 
-- **Audio:** Realtek ALC294 
-- **Touchpad:** ELAN1203 (I2C) 
-- **Keyboard**: Chiclet keyboard 
-- **WebCam**: VGA Web Camera
-- **Battery**: Working
+| **Name** | **Description** |
+| - | - |
+| Mainboard | Asus G712LW |
+| CPU | Intel Core i7-10750H @ 2.6GHz (CometLake) |
+| IGPU | Intel UHD 630 Graphics |
+| DGPU | nVIDIA GeForce RTX 2070 |
+| Wi-Fi / Bluetooth | Intel AX201 WLAN + Bluetooth 5.0 |
+| Ethernet | Realtek RTL8168/8111 |
+| Audio | Realtek HD Audio ALC294 |
+| Touchpad | ELAN1203 |
 
 # WORKING:
 - [x] **Graphics UHD 630**
-- [x] nVIDIA GeForce RTX 2070 **(NOT support now)**
+- [ ] nVIDIA GeForce RTX 2070 **(NOT support now)**
 - [x] **Sound**
 - [x] **WiFi (in developement)**
 - [x] **Bluetooth** 
 - [x] Apple Store
 - [x] External USB headphone
-- [x] USB 2.0
-- [x] USB 3.0
+- [x] USB 3.0 + USB 2.0
 - [x] Adjust brightness
 - [x] Fn feature 
 - [x] Led light keyboard
@@ -44,7 +39,7 @@ Any donation would help me a lot!
 - [x] Battery
 - [x] Trackpad
 - [x] Full cores
-- [x] Temporature
+- [x] Temperature
 - [x] System Fan Control
 - [x] Disabling discrete graphics GPU with SSDT Patching
 - [x] Ethernet

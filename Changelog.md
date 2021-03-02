@@ -1,5 +1,8 @@
 # CHANGELOG
 
+**02/03/2021**
+- Update OC and kexts to latest commits
+
 **31/01/2021**
 - Update OC and kexts to latest commits
 
