@@ -5,10 +5,9 @@ Any donation would help me a lot!
 
 ## Contact me
 [![Telegram](https://img.shields.io/badge/Chat_on-Telegram-blue.svg)](https://t.me/tunglamvghy)
-***Due to COVID-19, now I have free time. So if you want me to create your own EFI with a little payment, contact me via Telegram.***
 
 # Asus ROG Strix G17 G712LW
-# Mac OS X 11.2.2 BigSur 
+# Mac OS X 11.2.3 BigSur 
 ***This EFI can be used for 10.15 Catalina***
 ![Alt text](https://github.com/tunglamvghy/AsusROG-G712LW-hackintosh/raw/main/Screenshots/os.png)
 # Specification
