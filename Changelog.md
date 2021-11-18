@@ -1,5 +1,9 @@
 # CHANGELOG
 
+**18/11/2021**
+- Update OC and kexts to latest commits
+- Upgradeable to macOS 12 Monterey
+
 **31/03/2021**
 - Update OC and kexts to latest commits
 

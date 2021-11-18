@@ -7,9 +7,8 @@ Any donation would help me a lot!
 [![Telegram](https://img.shields.io/badge/Chat_on-Telegram-blue.svg)](https://t.me/tunglamvghy)
 
 # Asus ROG Strix G17 G712LW
-# Mac OS X 11.2.3 BigSur 
-***This EFI can be used for 10.15 Catalina***
-![Alt text](https://github.com/tunglamvghy/AsusROG-G712LW-hackintosh/raw/main/Screenshots/os.png)
+# Mac OS X 12.0.1 Monterey
+![Alt text](https://github.com/tunglamvghy/AsusROG-G712LW-hackintosh/raw/main/Screenshots/os.jpeg)
 # Specification
 | **Name** | **Description** |
 | - | - |
